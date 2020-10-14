@@ -4,7 +4,7 @@
 
 ### I am Abhay Tripathi
 
-A class XII student who is a tech enthusiast who develops apps as an hobby.
+A class XII student who is a tech enthusiast and develops apps as an hobby.
 
 I would like to welcome you to my github projects. I hope you find them interesting. Happy project surfing!
 
