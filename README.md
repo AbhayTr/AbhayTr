@@ -1,8 +1,8 @@
 # Welcome to my github!
 
-Greetings visitor!
+## Greetings visitor!
 
-## I am Abhay Tripathi
+### I am Abhay Tripathi
 
 A class XII student who is a tech enthusiast who develops apps as an hobby.
 
