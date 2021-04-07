@@ -8,4 +8,4 @@ A class XII student who is a tech enthusiast and develops apps and modules as an
 
 I would like to welcome you to my github projects. I hope you find them interesting. Happy project surfing!
 
-For more information about me, you can visit my website https://abhaytr.tk.
+For more information about me, you can visit my website http://abhaytr.tk.
