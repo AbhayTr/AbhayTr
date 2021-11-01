@@ -4,7 +4,7 @@
 
 ### I am Abhay Tripathi
 
-A class XII student who is a tech enthusiast and develops apps and modules as an hobby.
+A B.Tech CSE First Year student who is a tech enthusiast and develops apps and modules as an hobby.
 
 I would like to welcome you to my github projects. I hope you find them interesting. Happy project surfing!
 
