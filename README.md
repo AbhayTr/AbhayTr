@@ -4,7 +4,7 @@
 
 ### I am Abhay Tripathi
 
-I am currently pursuing Bachelor of Technology - Computer Science and Engineering (2021-25) from Manipal University Jaipur and am a First Year student. I am a technology enthusiast and love making apps and modules to solve real world day-to-day problems as an hobby. I also like to create small games as an hobby.
+I am currently pursuing Bachelor of Technology - Computer Science and Engineering (2021-25) from Manipal University Jaipur and am a First Year student. I am a technology enthusiast and love making apps and modules to solve real world day-to-day problems. I also like to create small games as an hobby.
 
 I would like to welcome you to my github projects. I hope you find them interesting. Happy project surfing!
 
