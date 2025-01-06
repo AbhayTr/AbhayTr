@@ -4,7 +4,7 @@
 
 ### I am Abhay Tripathi
 
-I am a cross-technology software engineer. I have a Problem-Solving Mindset i.e. I can learn, adapt, and use any technology, or even innovate a new one if required to get the job done/solve the problem at hand. The key skills which I can bring to the table are as follows:
+I am a cross-technology software engineer. The key skills which I can bring to the table are as follows:
 
 - Core Programming Languages for Full-Stack Software Development: Java, Python, C.
 
