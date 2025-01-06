@@ -20,7 +20,7 @@ I am a cross-technology software engineer. The key skills which I can bring to t
 
 - Proficient in Web scraping from the most authenticated and automated environments, using frameworks like Selenium and Beautiful Soup.
 
-I am also an AI/ML enthusiast and am currently experimenting in the field of AI/ML. I also like to create small games as a hobby. I am also a technology enthusiast and love making scalable software to solve real-world day-to-day problems. I am currently pursuing a Bachelor of Technology - Computer Science and Engineering (2021-25).
+Currently experimenting in the field of AI/ML. Pursuing Bachelor of Technology - Computer Science Engineering (2021-25).
 
 I would like to welcome you to my GitHub projects. I hope you find them interesting. Happy project surfing!
 
