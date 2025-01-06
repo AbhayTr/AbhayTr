@@ -4,7 +4,7 @@
 
 ### I am Abhay Tripathi
 
-I am a cross-technology software engineer. The key skills which I can bring to the table are as follows:
+I am a cross-technology software engineer. The key skills which I can bring to the table:
 
 - Core Programming Languages for Full-Stack Software Development: Java, Python, C.
 
