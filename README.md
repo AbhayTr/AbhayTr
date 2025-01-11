@@ -2,9 +2,7 @@
 
 ## Greetings visitor!
 
-### I am Abhay Tripathi
-
-I am a cross-technology software engineer. The key skills which I can bring to the table:
+I am an aspiring cross-technology software engineer. The key skills that I can bring to the table:
 
 - Core Programming Languages for Full-Stack Software Development: Java, Python, C.
 
@@ -22,6 +20,6 @@ I am a cross-technology software engineer. The key skills which I can bring to t
 
 Currently experimenting in the field of AI/ML. Pursuing Bachelor of Technology - Computer Science Engineering (2021-25).
 
-I would like to welcome you to my GitHub projects. I hope you find them interesting. Happy project surfing!
+I want to welcome you to my GitHub projects. I hope you find them interesting. Happy project surfing!
 
 For more information about me, you can visit my website https://abhaytr.github.io.
